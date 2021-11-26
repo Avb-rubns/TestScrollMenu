@@ -1,0 +1,11 @@
+C:\Users\rubns\source\repos\TestsMud\TestsMud\Shared\bin\Debug\net5.0\TestsMud.Shared.deps.json
+C:\Users\rubns\source\repos\TestsMud\TestsMud\Shared\bin\Debug\net5.0\TestsMud.Shared.dll
+C:\Users\rubns\source\repos\TestsMud\TestsMud\Shared\bin\Debug\net5.0\ref\TestsMud.Shared.dll
+C:\Users\rubns\source\repos\TestsMud\TestsMud\Shared\bin\Debug\net5.0\TestsMud.Shared.pdb
+C:\Users\rubns\source\repos\TestsMud\TestsMud\Shared\obj\Debug\net5.0\TestsMud.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rubns\source\repos\TestsMud\TestsMud\Shared\obj\Debug\net5.0\TestsMud.Shared.AssemblyInfoInputs.cache
+C:\Users\rubns\source\repos\TestsMud\TestsMud\Shared\obj\Debug\net5.0\TestsMud.Shared.AssemblyInfo.cs
+C:\Users\rubns\source\repos\TestsMud\TestsMud\Shared\obj\Debug\net5.0\TestsMud.Shared.csproj.CoreCompileInputs.cache
+C:\Users\rubns\source\repos\TestsMud\TestsMud\Shared\obj\Debug\net5.0\TestsMud.Shared.dll
+C:\Users\rubns\source\repos\TestsMud\TestsMud\Shared\obj\Debug\net5.0\ref\TestsMud.Shared.dll
+C:\Users\rubns\source\repos\TestsMud\TestsMud\Shared\obj\Debug\net5.0\TestsMud.Shared.pdb

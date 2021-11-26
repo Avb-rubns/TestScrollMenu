@@ -1,0 +1,35 @@
+﻿
+
+<div id="ContainerScrollMenu" class="HideMenu">
+    <div id="Menu1" class="CardMenu">
+        <div class="cards">
+            <span @onclick="(() => Scrolling(Menus[0], Menus[1],Menus))">Menu 2 </span>
+            <span @onclick="(() => Scrolling(Menus[0], Menus[2],Menus))">Menu 3 </span>
+            <span @onclick="(() => Scrolling(Menus[0], Menus[3],Menus))">Menu 4 </span>
+        </div>
+    </div>
+    <div id="Menu2" class="CardMenu" >
+        <div class="cards">
+            <span class="Back" @onclick="(() => Scrolling(Menus[1], Menus[0],Menus))">Regresar</span>
+            <span>List 1 </span>
+            <span>List 2 </span>
+            <span>List 3 </span>
+        </div>
+    </div>
+    <div id="Menu3" class="CardMenu" >
+        <div class="cards">
+            <span class="Back" @onclick="(() => Scrolling(Menus[2], Menus[0],Menus))">Regresar</span>
+            <span>List 3 </span>
+            <span>List 2 </span>
+            <span>List 1 </span>
+        </div>
+    </div>
+    <div id="Menu4" class="CardMenu" >
+        <div class="cards">
+            <span class="Back"  @onclick="(() => Scrolling(Menus[3], Menus[0],Menus))">Regresar</span>
+            <span>List 10 </span>
+            <span>List 11</span>
+            <span>List 12 </span>
+        </div>
+    </div>
+</div>

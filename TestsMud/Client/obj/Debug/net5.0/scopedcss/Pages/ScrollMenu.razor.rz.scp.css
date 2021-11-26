@@ -1,0 +1,31 @@
+.HideMenu[b-jiwd7tut9m]{
+    display:none;
+}
+.LocationMenu[b-jiwd7tut9m] {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    overflow: hidden;
+    scroll-behavior: smooth;
+    overflow-y: auto;
+    width: calc(100% - 93%)
+}
+.CardMenu[b-jiwd7tut9m] {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position:relative;
+}
+.cards[b-jiwd7tut9m]{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 1rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.Back[b-jiwd7tut9m]{
+    font-size: 11px;
+}
